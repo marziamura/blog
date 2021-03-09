@@ -3,7 +3,7 @@ import { jsx } from 'theme-ui'
 import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
 import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
-
+import { useStaticQuery} from "gatsby"
 import Layout from "../components/layout"
 import SEO from '../components/seo';
 
@@ -63,6 +63,7 @@ const Post = ({ data, pageContext }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
+ 
   const { previous, next } = pageContext
 
   let props = {
@@ -84,6 +85,7 @@ const Post = ({ data, pageContext }) => {
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
           </section>
+       
           {Image ? (
             <Img 
               fluid={Image} 
@@ -92,7 +94,9 @@ const Post = ({ data, pageContext }) => {
               alt={frontmatter.title + ' - Featured image'}
               className="featured-image"
             />
+     
           ) : ""}
+       
         </header>
         
         <div
@@ -124,7 +128,7 @@ export const pageQuery = graphql`
         description
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 1980, maxHeight: 768, quality: 80, srcSetBreakpoints: [350, 700, 1050, 1400]) {
+            fluid(maxWidth: 960, maxHeight: 720, quality: 80, srcSetBreakpoints: [350, 700, 1050, 1400]) {
               ...GatsbyImageSharpFluid
               ...GatsbyImageSharpFluidLimitPresentationSize
             }

@@ -74,6 +74,19 @@ const HomePage = ({ data }) => {
           ) : ""}
         </div>
       </div>
+      <div>
+      <p 
+            class="tagline"
+            sx={{
+              color: 'muted'
+            }}
+          >
+        Spending many years working in men dominated enviroments has definetely had a big impact in my career, but also on my personality.
+
+        So this is the space where I will be sharing some of my stories and my thoughts. I hope you'll find them interesting.
+        
+    </p>
+      </div>  
       <BlogListHome/>
 		</Layout>
 	)
