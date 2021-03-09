@@ -31,7 +31,7 @@ Me - _Oh, not sure I can help if you need a girl, but if you need a woman I migh
 He - _I don't really care, we just need a vagina._<br/>
 Me - _emh then I'm afraid I won't really feel comfortable among so many dicks_<br/>
 
-Well, I had to answer, I wasn't born in Buckingam Palace after all, but the fact is, nobody else in the group said anything. They just walked away.<br/> but as far as I know, they guy still works there and I believe he is advancing quite fast in his career.<br/>
+Well, I had to answer, I wasn't born in Buckingam Palace after all, but the fact is, nobody else in the group said anything. They just walked away.<br/> As far as I know, they guy still works there and I believe he is advancing quite fast in his career.<br/>
 And if you are wondering:<br/>
 Did his manager know about this? Yes he did. <br/>
 And did HR know about this? Yes they did <br/>
