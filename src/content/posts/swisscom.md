@@ -6,12 +6,12 @@ date: 2021-03-08T05:53:16.102Z
 description: Neon
 featuredImage: /assets/genderequality.jpg
 ---
-## How should women react when they hear sexist jokes? . 
+## How do you react when you hear sexist jokes in the workplace? 
 
-Gender and minorities inequalities are due to sterotypes.
-Steretypes increase biases and biases lead to quick and poor judgement. 
+Gender and minorities inequalities are due to stereotypes.
+Stereotypes increase biases and biases lead to quick and poor judgements. 
 
-Unfortunately some of them become so engrained in our brains, that even the people suffering from their consequeces may themselves being biased the same way, or even worse, they might come to accept certain behaviours as "just the way things are".
+Unfortunately, some of them become so engrained in our brains, that even the people suffering from their consequeces may themselves being biased the same way, or even worse, they might come to accept certain behaviours as "just the way things are".
 
 As I was working for Swisscom, I happened to witness or be subjected to several episodes of clear sexism. When I asked for support from my collegues I received answers like
 "Oh come on, other women used to laugh along" or "I have only understood what you meant after I showed that meme to my wife", or from female collegues "yeah, not big deal, it is the way it is."
@@ -24,11 +24,11 @@ I have two stories related to the time it was organized while I was working ther
 Team competitions were being organized and the organization of the games was trying to balance the presence of men and women participating, by giving some sort of advantage to teams that were including women.
 So I was invited to join one of the teams. It went like this: 
 
-A group of (male) collegues approached me. 
+A group of (male) colleagues approached me. 
 
 He - _Hey Marzia, would you like to join our team? We need a girl._<br/>
-Me - _Oh not sure I can help if you need a girl, but if you need a woman I might be interested_<br/>
-He - _Oh I don't really care, we just need a vagina._ <br/>
+Me - _Oh, not sure I can help if you need a girl, but if you need a woman I might be interested_<br/>
+He - _I don't really care, we just need a vagina._<br/>
 Me - _emh then I'm afraid I won't really feel comfortable among so many dicks_<br/>
 
 Well, I had to answer, I wasn't born in Buckingam Palace after all, but the fact is, nobody else in the group said anything. They just walked away.<br/> but as far as I know, they guy still works there and I believe he is advancing quite fast in his career.<br/>
