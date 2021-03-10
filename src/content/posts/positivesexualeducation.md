@@ -7,6 +7,7 @@ description: Neon
 featuredImage: /assets/genderequality.jpg
 ---
 ## Sex-positive education and gender equality
+<p style="font-size:10px;">Disclaimer: the content of this blog post is not based on scientific evidence or research, it is based on my experience and my perceptions.</p>
 
 Last year I started a new professional journey joining Erin at <a href="https://www.getgilly.com">Gilly</a> as technical co-founder.
 
@@ -16,12 +17,12 @@ Erin and I met by pure chance, and until then I could have never ever imagined m
 For me, and I know I am not unique in this, sex had always been a topic "we don't talk about". A tabu. 
 But, as the two of us started dating as business partners, I soon realized how important it is to break free from this negative thinking not just for couples, but for every single human being.
 
-Disclaimer: the content of this blog post is not based on scientific evidence or research, it is based on my experience and my perceptions. 
+
 
 The vast majority of people do not talk about sex. Let me be more specific, people do not talk positively about sex. Most of the language we hear in everyday life refferring to it, is negative, offensive, denigratory.
 Negative sexual connotations are used to insult people, expecially women. 
 
-Then, I wonder how much the gender inequality we experience in our lives, is rooted in the fact that the education on such a fondamental aspect of our lives is negleted and the void left by it is replaced by prejudice, non-biological based "explanations" of our anatomy and ultimately porn. 
+Then, I wonder how much the gender inequality we experience in our lives, is rooted in the fact that the education on such a fondamental aspect of our lives is negleted, and the void left by it is replaced by prejudice, non-biological based "explanations" of our anatomy and ultimately porn. 
 
 I wonder, how many women or people in the LGTB community have been insulted on the road or even in the workplace in the total indifference of people witnessing it.  How much has that impacted their self-confidence and their ability to express themselves freely?
 
@@ -41,9 +42,11 @@ And if there is any expression of surprise, if not shock, on your face after rea
 
 I might have looked strong from my answer. But I was shaking. I still remember how I felt my heart pulsing in my chest the and sense of humiliation for having been identified as a part of my body in a way that didn't sound like a compliment at all. <br/>
 </br>
-How can we feel comfortable in our professional roles and in all our endevear if other people see us this way. How can we expect to be treated equally and fairly if people can still belittle us by referring to our sexuality?
+How can we feel comfortable in our professional roles and in all our endeavours if other people see us this way. How can we expect to be treated equally and fairly if people can still belittle us by referring to our sexuality?
 
 So, let's start from the basics, let's start with education and normalize the topic. 
+
+
 
 
 
