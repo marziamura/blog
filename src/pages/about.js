@@ -54,7 +54,27 @@ const useStyles = makeStyles((theme) => ({
   },
   titleContainer:{
     padding: 30
+  },
+  topHeader:{
+    alignContent: "center",
+    alignItems: "center",
+    justify: "center",
+    
+    padding: 10,
+    marginLeft: 10,
+  },
+  topBox:{
+    justifyContent: "center"
+  },
+  topHeaderText:{
+    fontSize: 40,
+    alignContent: "center",
+    align: "center",
+    justify: "center",
+    paddingLeft: 10,
+    marginLeft: 10,
   }
+
 }));
 
 
@@ -179,6 +199,13 @@ function getProfessionaContent(){
 
   <ThemeProvider theme={localTheme}>
   <Grid container spacing={0} >
+   <Grid item md={12} xs={12} className={classes.topHeader}>
+      <Box className={classes.topBox}>
+         <Typography variant="h1" component="h1" className={classes.topHeaderText}>
+            Few things about me...
+         </Typography>
+      </Box>
+    </Grid>
     <Grid item md={6} xs={12} className={classes.column}>
       <Box className={classes.titleContainer}>
     <Typography variant="h1" component="h1" className={classes.session}>Personal</Typography>
