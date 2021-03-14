@@ -16,12 +16,21 @@ module.exports = {
   siteMetadata: settings.meta,
   plugins: [
     {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        typekit: {
+          id: process.env.TYPEKIT_ID,
+        },
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/assets/`,
         name: `assets`,
       },
     },
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {
