@@ -14,24 +14,24 @@ featuredImage: /assets/genderequality.jpg
 Last year I started a new professional journey joining Erin at 
 <a href="https://www.getgilly.com">Gilly</a> as technical co-founder.
 
-Gilly's mission is to improve the sexual life of couples who are really busy, especially after they had children, and are struggling to find quality me/couple time. <br/>
-Erin and I met by pure chance, and until then I could have never ever imagined myself working in the sex-tech industry.
+Gilly's mission is to improve the sexual life of couples who are really busy, especially after they had children, and are finding it hard to find quality time together as a couple. <br/>
+Erin and I met by pure chance, and until then I never would have imagined myself working in the sex-tech industry.
 
-For me, and I know I am not unique in this, sex had always been a topic "we don't talk about". A tabu. 
-But, as the two of us started dating as business partners, I soon realized how important it is to break free from this negative thinking not just for couples, but for every single human being.
+For me, and I know I am not unique in this, sex had always been a topic "we don't talk about". A taboo. 
+But, as the two of us started dating as business partners, I soon realized how important it is to break free from this negative thinking, not just for couples, but for every single human being.
 
 
-
-The vast majority of people do not talk about sex. Let me be more specific, people do not talk positively about sex. Most of the language we hear in everyday life referring to it, is negative, offensive, denigratory.
+The vast majority of people do not talk about sex. Let me be more specific, people do not talk positively about sex. Most of the language we hear in everyday life referring to it, is negative, offensive, demeaning.
 Negative sexual connotations are used to insult people, especially women. 
 
 Then, I wonder how much the gender inequality we experience in our lives is rooted in the fact that the education on such a fundamental aspect of our lives is neglected, and the void left by it is replaced by prejudice, non-biological based "explanations" of our anatomy and ultimately porn. 
 
-I wonder, how many women or people in the LGTB community have been insulted on the road or even in the workplace in the total indifference of people witnessing it.  How much has that impacted their self-confidence and their ability to express themselves freely?
+I wonder, how many bad experiences happen in the workplace. Do we talk enough about them?
+How much do they impact our self-confidence and our ability to feel respected and express ourself freely?
 
 It did happen to me, more than once, but here is maybe the worst episode I have experienced. 
 
-The company I worked with, was organizing some big sport event that included team competitions. As it is often the case in IT, women were underrepresented and so the company was trying to encourage them to participate by awarding some extra points to the teams who included them.
+The company I worked for, was organizing some big sport event that included team competitions. As it is often the case in IT, women were underrepresented and so the company was trying to encourage them to participate by awarding some extra points to the teams who included them.
 So I was approached by a group of colleagues in the office:
 
 He - _Hey Marzia, would you like to join our team? We need a girl._<br/>
@@ -39,11 +39,13 @@ Me - _Oh, not sure I can help if you need a girl, but if you need a woman I migh
 He - _I don't really care, we just need a vagina._<br/>
 Me - _emh then I'm afraid I won't really feel comfortable among so many dicks_<br/>
 
-Well, I had to answer, I wasn't born in Buckingham Palace after all, but the fact is, nobody else in the group said anything. They just walked away.<br/> 
+It was the first thing that came up to my mind as an answer, I wasn't born in Buckingham Palace after all, but the fact is, nobody else in the group said anything. They just walked away.<br/> 
 
 And if there is any expression of surprise, if not shock, on your face after reading this, imagine what I felt. 
 
-I might have looked strong from my answer. But I was shaking. I still remember how I felt my heart pulsing in my chest and the sense of humiliation for having been identified as a part of my body in a way that didn't sound like a compliment at all. <br/>
+I might have looked strong from my answer. But I was shaking. I still remember how I felt my heart pulsing in my chest and the sense of humiliation for having been identified as a part of my body in a way that didn't sound like a compliment at all.<br/>
+One of the problems with this experiences is that they really never leave you. They keep rearing their ugly head again and again. 
+In my case, I could not help thinking about it anytime I was in a meeting with them or any other men, and it still hurts today. 
 </br>
 How can we feel comfortable in our professional roles and in all our endeavours if other people see us this way. How can we expect to be treated equally and fairly if people can still belittle us by referring to our sexuality?
 
