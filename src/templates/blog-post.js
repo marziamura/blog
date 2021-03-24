@@ -1,11 +1,12 @@
 /** @jsx jsx */
-import { jsx } from 'theme-ui'
-import { Link, graphql } from "gatsby"
-import Img from "gatsby-image"
-import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
-import { useStaticQuery} from "gatsby"
-import Layout from "../components/layout"
+import { jsx } from 'theme-ui';
+import { Link, graphql } from "gatsby";
+import Img from "gatsby-image";
+import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri";
+import { useStaticQuery} from "gatsby";
+import Layout from "../components/layout";
 import SEO from '../components/seo';
+import BeforeUnloadComponent from 'react-beforeunload-component';
 
 const styles = {
   'article blockquote': {
@@ -79,6 +80,7 @@ const Post = ({ data, pageContext }) => {
         image={Image}
         article={true}
       />
+
       <article className="blog-post">
         <header className="featured-banner">
           <section className="article-header">
@@ -107,6 +109,7 @@ const Post = ({ data, pageContext }) => {
       {(previous || next) && (
         <Pagination {...props} />
       )}
+
     </Layout>
   )
 }
