@@ -2,7 +2,7 @@
 template: blog-post
 title: The importance of sex-positive education
 slug: /sex-positive education
-date: 2021-03-10T05:53:16.102Z
+date: 2021-03-27T05:53:16.102Z
 description: Neon
 featuredImage: /assets/genderequality.jpg
 ---
@@ -22,14 +22,12 @@ But, as the two of us started dating as business partners, I soon realized how i
 
 
 The vast majority of people do not talk about sex. Let me be more specific, people do not talk positively about sex. Most of the language we hear in everyday life referring to it, is negative, offensive, demeaning.
-Negative sexual connotations are used to insult people, especially women. 
+Negative sexual connotations are used to insult people, especially women and members of the LGBTQIA community.
 
 Then, I wonder how much the gender inequality we experience in our lives is rooted in the fact that the education on such a fundamental aspect of our lives is neglected, and the void left by it is replaced by prejudice, non-biological based "explanations" of our anatomy and ultimately porn. 
 
-I wonder, how many bad experiences happen in the workplace. Do we talk enough about them?
-How much do they impact our self-confidence and our ability to feel respected and express ourself freely?
-
-It did happen to me, more than once, but here is maybe the worst episode I have experienced. 
+Lately I have started reanalyzing some of my own experiences and, even if fortunately, nothing traumatizing ever happened to me, I did have some bad ones as a teenager, as a young woman and more recently also as a grown up in the place that should be the safest of all after your own home. The office. 
+And this latest, I believe, was the worst by far, not because of the raw facts per se, but exactly because of the context, the workplace with a group of highly educated people. 
 
 The company I worked for, was organizing some big sport event that included team competitions. As it is often the case in IT, women were underrepresented and so the company was trying to encourage them to participate by awarding some extra points to the teams who included them.
 So I was approached by a group of colleagues in the office:
