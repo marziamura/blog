@@ -45,19 +45,20 @@ I might have looked strong from my answer. But I was shaking. I still remember h
 One of the problems with these experiences is that they really never leave you. They keep rearing their ugly head again and again. 
 In my case, I could not help thinking about it anytime I was in a meeting with them or any other men, and it still hurts today. 
 <br/>
+How can we feel comfortable in our professional roles and in all our endeavours if other people see us this way. How can we expect to be treated equally and fairly if people can still belittle us by referring to our sexuality?
+<br/>
 There were also smaller episodes which I found annoying and for which I complained. In those cases the answers were of the kind <br/>
 _"We never had problems before, other women just laughed along"_ <br/>
 And from women <br/>
 _"It is the way it is."_
 <br/>
-How can we feel comfortable in our professional roles and in all our endeavours if other people see us this way. How can we expect to be treated equally and fairly if people can still belittle us by referring to our sexuality?
-<br/>
- Right now, we can and we must speak up. We must not accept certain expressions with the justification that they are jokes. They are insulting. They undermine our self confidence and the way we are perceived by others. So next time just choose another topic to joke about and if you are on the receiving end, do not pretent you are amused. 
- 
-Then all together, let's build a society where everybody can feel safe.  Where everybody sees our differences as strengths and opportunities and not as a weaknesses or threats. 
+I found the suggestion that I should have accepted that, upsetting. And many women do that because they want to fit in, they want to be "cool", they don't want to be felt as the odd ones out. And I can say that because I have also done it at times. <br/>
+But now I believe we must speak up. We must not accept certain expressions with the justification that they are jokes. They are insulting. They undermine our self confidence and the way we are perceived by others. So next time just choose another topic to joke about and if you are on the receiving end, do not pretent you are amused. 
+ <br/>
+Then all together, let's build a society where everybody can feel safe. Where everybody sees our differences as strengths and opportunities and not as a weaknesses or threats. 
 For that we would have to undo all the damage perpetrated by a history full of falsehood, misconceptions, and reiterated bad education based often on opportunistic interpretation of our biology, or sometimes, not education at all.
 We can only truly do that starting from the basics, from the education of our children and our young adults. 
-If you have children, or work with children do not avoid “The talk”, don’t feel awkward about it. Sex should not be a taboo. Be respectful and positive about it, I'm sure that children growing up with that perspective will be better adults, better friends, better colleagues, better partners, better lovers. 
+If you have children, or work with children do not avoid “The talk”, don’t feel awkward about it. Sex should not be a taboo. Be respectful and positive about it, I'm sure that children growing up with that perspective, will be better adults, better friends, better colleagues, better partners, better lovers. 
 
 
 <a style="font-size:10px;" href='https://www.freepik.com/vectors/people'>People vector created by freepik - www.freepik.com</a>
