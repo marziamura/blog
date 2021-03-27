@@ -82,7 +82,7 @@ function About(){
   const classes = useStyles();
 
   var contentPersonal = [{
-    title: "I have been living in Switzerland for nearly five years and before that, I lived in Ireland for then years",
+    title: "I have been living in Switzerland for nearly five years and before that, I lived in Ireland for ten years",
     content: "but my heart is always going to be where my roots are, in Sardinia."
   },
   {
