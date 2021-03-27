@@ -57,7 +57,7 @@ How can we feel comfortable in our professional roles and in all our endeavours 
 Then all together, let's build a society where everybody can feel safe.  Where everybody sees our differences as strengths and opportunities and not as a weaknesses or threats. 
 For that we would have to undo all the damage perpetrated by a history full of falsehood, misconceptions, and reiterated bad education based often on opportunistic interpretation of our biology, or sometimes, not education at all.
 We can only truly do that starting from the basics, from the education of our children and our young adults. 
-If you have children, or work with children do not avoid “The talk”, don’t feel awkward about it. Sex should not be a taboo. Be respectful and positive about it, I'm sure that children growing with that perspective will be better adults, better friends, better colleagues, better partners, better lovers. 
+If you have children, or work with children do not avoid “The talk”, don’t feel awkward about it. Sex should not be a taboo. Be respectful and positive about it, I'm sure that children growing up with that perspective will be better adults, better friends, better colleagues, better partners, better lovers. 
 
 
 <a style="font-size:10px;" href='https://www.freepik.com/vectors/people'>People vector created by freepik - www.freepik.com</a>
