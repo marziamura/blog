@@ -3,10 +3,29 @@ import { jsx } from 'theme-ui';
 import { Link, graphql } from "gatsby";
 import Img from "gatsby-image";
 import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri";
-import { useStaticQuery} from "gatsby";
 import Layout from "../components/layout";
 import SEO from '../components/seo';
-import BeforeUnloadComponent from 'react-beforeunload-component';
+
+import { makeStyles } from '@material-ui/core/styles';
+import Box from "@material-ui/core/Box"
+
+const useStyles = makeStyles((theme) => ({
+
+ box:{
+    justifyContent: "center",
+    alignItems: "center",
+    alignContent: "center",
+    paddingLeft: 40,
+    maxWidth: "100%",
+  }, 
+  center: {
+    display: "block",
+    marginLeft: "auto",
+    marginRight: "auto",
+    width: '100%',
+  }
+
+}));
 
 const styles = {
   'article blockquote': {
@@ -64,7 +83,7 @@ const Post = ({ data, pageContext }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
- 
+  const classes = useStyles();
   const { previous, next } = pageContext
 
   let props = {
@@ -87,18 +106,10 @@ const Post = ({ data, pageContext }) => {
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
           </section>
-       
-          {Image ? (
-            <Img 
-              fluid={Image} 
-              objectFit="cover"
-              objectPosition="50% 50%"
-              alt={frontmatter.title + ' - Featured image'}
-              className="featured-image"
-            />
-     
-          ) : ""}
-       
+       <Box className={classes.box}>
+             <img src="/assets/genderequality.jpg" alt="gender tension" className={classes.center}></img>
+       </Box>
+
         </header>
         
         <div
@@ -131,10 +142,13 @@ export const pageQuery = graphql`
         description
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 960, maxHeight: 720, quality: 80, srcSetBreakpoints: [350, 700, 1050, 1400]) {
+            fluid(maxWidth: 450, maxHeight: 500, quality: 80) {
               ...GatsbyImageSharpFluid
               ...GatsbyImageSharpFluidLimitPresentationSize
             }
+              fixed(width: 450, height: 500) {
+          ...GatsbyImageSharpFixed
+        }
             sizes {
               src
             }
