@@ -26,8 +26,8 @@ Negative sexual connotations are used to insult people, especially women and mem
 
 Then, I wonder how much the gender inequality we experience in our lives is rooted in the fact that the education on such a fundamental aspect of our lives is neglected, and the void left by it is replaced by prejudice, non-biological based "explanations" of our anatomy and ultimately porn. 
 
-Lately I have started reanalyzing some of my own experiences and, even if fortunately, nothing traumatizing ever happened to me, I did have some bad ones as a teenager, as a young woman and more recently also as a grown up in the place that should be the safest of all after your own home. The office. 
-And this latest, I believe, was the worst by far, not because of the raw facts per se, but exactly because of the context, the workplace with a group of highly educated people. 
+Lately I have started reanalyzing some of my own experiences and, even if fortunately, nothing traumatizing ever happened to me, I did have some bad ones as a teenager, as a young woman and more recently also as a grown up in the place that should be the safest of all after your own home. The office. <br/>
+And this latest, I believe, was the worst by far, not because of the raw facts per se, but exactly because of the context: the workplace with a group of highly educated people. 
 
 The company I worked for, was organizing some big sport event that included team competitions. As it is often the case in IT, women were underrepresented and so the company was trying to encourage them to participate by awarding some extra points to the teams who included them.
 So I was approached by a group of colleagues in the office:
