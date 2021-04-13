@@ -102,7 +102,7 @@ function About(){
     content: "but nothing beats the smell of the salty water and the sandy beaches of the sea."
   },
   
-  ]
+  ] 
   
   var contentProfessional = [
   {
@@ -110,8 +110,8 @@ function About(){
       content: "and I take great satisfaction to see the result of my work. It might be however extremely stressful."
   },
   { title: "I always deliver on time",
-    content: "and I try to minimize wasted work by leaving all to the last possible moment. Okay yes, I do procrastinate."
-  },
+    content: "and I try to minimize wasted work by leaving all to the last possible moment."
+    
   {
     title: "I worked as Scrum master and Product Owner",
     content: "and although there is great value in the Scrum framework, I believe it is flawed and it is not a silver bullet to deliver value."
