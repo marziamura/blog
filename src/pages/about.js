@@ -111,7 +111,7 @@ function About(){
   },
   { title: "I always deliver on time",
     content: "and I try to minimize wasted work by leaving all to the last possible moment."
-    
+},
   {
     title: "I worked as Scrum master and Product Owner",
     content: "and although there is great value in the Scrum framework, I believe it is flawed and it is not a silver bullet to deliver value."

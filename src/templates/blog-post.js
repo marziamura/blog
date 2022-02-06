@@ -106,9 +106,7 @@ const Post = ({ data, pageContext }) => {
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
           </section>
-       <Box className={classes.box}>
-             <img src="/assets/genderequality.jpg" alt="gender tension" className={classes.center}></img>
-       </Box>
+   
 
         </header>
         

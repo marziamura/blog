@@ -6,6 +6,9 @@ date: 2021-03-27T05:53:16.102Z
 description: Neon
 featuredImage: /assets/genderequality.jpg
 ---
+<Box className={classes.box}>
+    <img src="/assets/genderequality.jpg" alt="gender tension" className={classes.center}></img>         
+</Box>
 
 ## Sex-positive education and gender equality
 
