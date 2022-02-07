@@ -7,7 +7,11 @@ import { RiArrowRightSLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
+import mixpanel from 'mixpanel-browser';
+import {useEffect} from "react";
+import {getCookieConsentValue} from "react-cookie-consent";
 
+mixpanel.init('3380d410a52c988f320b17a80c70c676', {debug: true}); 
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
 		markdownRemark(id: { eq: $id }) {
@@ -39,6 +43,13 @@ const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
+  useEffect(()=>{
+      if(getCookieConsentValue("mixPanelCookie")==="true") {
+     
+       mixpanel.track("home page" + frontmatter.title);
+    }
+  }, [])
+
 	return (
 		<Layout>
       <SEO/>

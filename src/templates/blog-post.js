@@ -7,7 +7,10 @@ import Layout from "../components/layout";
 import SEO from '../components/seo';
 
 import { makeStyles } from '@material-ui/core/styles';
-import Box from "@material-ui/core/Box"
+import {useEffect} from "react"
+import mixpanel from 'mixpanel-browser';
+
+import {getCookieConsentValue} from "react-cookie-consent";
 
 const useStyles = makeStyles((theme) => ({
 
@@ -90,6 +93,15 @@ const Post = ({ data, pageContext }) => {
     previous,
     next
   }
+  console.log("sending event home page", getCookieConsentValue("mixPanelCookie") === "true");
+
+  useEffect(()=>{
+    if(getCookieConsentValue("mixPanelCookie")==="true") {
+      console.log("sending event blog visit", getCookieConsentValue("mixPanelCookie"));
+      mixpanel.track("Blog visit" + frontmatter.title);
+    }
+
+  }, [frontmatter.title])
 
   return (
     <Layout className="page">

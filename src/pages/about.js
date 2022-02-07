@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import Grid from '@material-ui/core/Grid';
 import Box from '@material-ui/core/Box';
 import Layout from "../components/layout"
@@ -11,6 +11,8 @@ import {ThemeProvider} from '@material-ui/core/styles';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import { makeStyles } from '@material-ui/core/styles';
 import {createMuiTheme} from '@material-ui/core/styles';
+import {getCookieConsentValue} from "react-cookie-consent";
+import mixpanel from 'mixpanel-browser';
 
 const localTheme = createMuiTheme({
   palette: {
@@ -80,6 +82,12 @@ const useStyles = makeStyles((theme) => ({
 
 function About(){
   const classes = useStyles();
+
+  useEffect(()=>{
+    if(getCookieConsentValue("mixPanelCookie")==="true") {
+        mixpanel.track("About page visit" );
+      }
+    },[])
 
   var contentPersonal = [{
     title: "I have been living in Switzerland for nearly five years and before that, I lived in Ireland for ten years",
@@ -154,6 +162,8 @@ var getAccordion = (title, content) =>
 }
 
 function getPersonalContent(){
+
+
   return <React.Fragment>
     
     {contentPersonal.map((item)=>{
