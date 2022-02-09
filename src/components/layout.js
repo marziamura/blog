@@ -46,7 +46,8 @@ const Layout = ({children, className, props}) => {
           location="bottom"
           buttonText="I am fine with cookies"
           declineButtonText="Decline"
-          enableDeclineButton
+        
+          overlay
           cookieName="mixPanelCookie">
                 I know you hate this banner, I hate it too, but I have to ask :(
                 I am only using cookies to count the visits to my blog. No ads, I promise.
