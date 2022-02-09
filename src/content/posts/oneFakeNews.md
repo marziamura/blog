@@ -1,22 +1,21 @@
 ---
 template: blog-post
-title: We don't need another myth about sexuality
+title: There's no need for another myth about sexuality.
 slug: /we-do-not-need-another-myth-about-sexuality
 date: 2022-02-05T05:53:16.102Z
 description: Neon
 featuredImage: /assets/brain.png
 ---
 <Box className={classes.box}>
-             <img src="/assets/brain.png" alt="gender tension" className={classes.center}></img>
+             <img src="/assets/brain.png" alt="brain" className={classes.center}></img>
 </Box>
 
-## "Women that have more sex are smarter, study shows."...
 
-I heard this news this morning on the radio. Okay just before you get too excited, women, this is BS.
 
-As I was going through my morning fitness routine and listening, as I sometimes do, to the Italian broadcaster “Rai Radio 2”, I nearly fell off the elliptical machine as they announced that. 
+As I was going through my morning fitness routine and listening, as I sometimes do, to the Italian broadcaster “Rai Radio 2”, I nearly fell off the elliptical machine as they announced:
+## "Women that have more sex are smarter, study shows."
 
-As it so happened, I had just read the articles they were referring to, and it did not say anything even close to that!
+As it so happened, I had just read the articles they were referring to, and just before you get too excited, women, it did not say that. Not even remotely.
  
 Truthfully, the radio program, <a href="https://www.raiplaysound.it/programmi/ilruggitodelconiglio">Il Ruggito Del Coniglio</a> (The Rabbit's Roar), is a humorous program, and the goal is not to disseminate scientific knowledge, but they passed on the news as something funny, letting the listeners believe that this was indeed the conclusion of the study.
 So after taking a nice shower and walking the dog, and I have to admit it, before concentrating on my work, I turned to Google to look for the article. 
