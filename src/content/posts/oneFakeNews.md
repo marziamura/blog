@@ -13,7 +13,7 @@ featuredImage: /assets/brain.png
 
 
 As I was going through my morning fitness routine and listening, as I sometimes do, to the Italian broadcaster “Rai Radio 2”, I nearly fell off the elliptical machine as they announced:
-## "Women that have more sex are smarter, study shows."
+<p style="font-size:25px; font-style:italic"> Women that have more sex are smarter, study shows. </p>
 
 As it so happened, I had just read the articles they were referring to, and just before you get too excited, women, it did not say that. Not even remotely.
  
@@ -35,10 +35,11 @@ If you have the time, you can read the article <a href="https://www.jneurosci.or
 
 And so women, please do not expect that having more sex will help you pass your exam in quantum physics, or any other complex stuff you are learning or dealing with right now... But hey! There are counteless other good reasons for it ;).
 
-By the way, at Gilly, we have just launched a beta version of our app. There you will find a variety of scientific-based information and fun exercises that you can do by yourself or with your partner to help you discover more about your (and their) sexuality.
+<p style="font-size:25px;font-weight:bold">At Gilly we have released the beta version of our intimacy app!</p>
+Gilly has just launched a beta version of their intimacy app. There you will find a variety of scientific-based information and fun exercises that you can do by yourself or with your partner to help you discover more about your (and their) sexuality.
 <br/>
 
-Visit <a href="www.getilly.com">our website</a> to subscribe to the beta program.
+Visit <a href="www.getilly.com"> our website</a> to subscribe to the beta program.
 
 <p style="font-size:12px;">(1) Sensory-Tactile Functional Mapping and Use-Associated Structural Variation of the Human Female Genital Representation Field
 Andrea J.J. Knop [M.S.], Stephanie Spengler [Ph.D.], Carsten Bogler [Ph.D.], Carina Forster [M.S.], Michael Brecht [Ph.D.], John-Dylan Haynes [Ph.D.] and Christine Heim [Ph.D.]
